@@ -1,0 +1,6 @@
+css:
+  version: 0.0
+  css:
+    theme:
+      css/normalize.css : {}
+      css/style.css : {}
